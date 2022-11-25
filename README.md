@@ -88,13 +88,9 @@ int main (void)  {
 
 
 
-
-
-### Result :
-UART is programmed for transmitting serial data on virtual terminal  
-
 ### Output screen shots :
 ![ss1](https://user-images.githubusercontent.com/93427238/203996114-a3c19062-1530-4bf1-b902-ed1f5ef59d28.png)
 ![ss2](https://user-images.githubusercontent.com/93427238/203996129-31476e82-d7a3-463b-b27f-6340b9680eb0.png)
 
-
+### Result :
+UART is programmed for transmitting serial data on virtual terminal  
