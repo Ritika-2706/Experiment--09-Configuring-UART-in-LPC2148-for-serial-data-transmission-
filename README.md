@@ -1,8 +1,8 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	
-Roll no 
-Date of experiment :
+Name :	Ritika S
+Roll no : 212221240046
+Date of experiment : 24/11/22
 
 
 
